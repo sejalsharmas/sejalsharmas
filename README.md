@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">I'm sejal Sharma </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**sejalsharmas/sejalsharmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="pic/6579900-removebg-preview.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+- 🌱 I’m currently learning **Fullstack Development**
+
+- 💬 Ask me about **HTML , CSS , Python , C And C++**
+
+- 📫 How to reach me **sejalsharmaany@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+
+<img src="pic/css.png" alt="css3" width="40" height="40"/> 
+<img src="pic/html.png" alt="html5" width="40" height="40"/> 
+<img src="pic/c-.png" alt="C++" width="40" height="40"/>
+<img src="pic/c_original_logo_icon_146611.png" alt="C" width="40" height="40"/>
+<img src="pic/python.png" alt="python" width="40" height="40"/>
+
+</p>
+
+
+---
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=sejalsharmas&theme=light&date_format=j%20M%5B%20Y%5D" alt="streak stats"/><br></br>
+</div>
